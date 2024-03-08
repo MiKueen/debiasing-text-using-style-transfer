@@ -11,7 +11,9 @@ Neutralize biases in text by transferring stylistic elements without compromisin
 
 ## Abstract
 
-The project addresses bias in language by leveraging Text Style Transfer, focusing on converting biased language into neutral form while preserving content. The main model successfully transformed biased text into a neutral style, demonstrating the feasibility and effectiveness of text style transfer in mitigating bias. The approach to this problem is twofold: there was a successful development and implementation of a model that effectively transforms biased language into a more neutral form. Then, it involves a classification task where the model discerns between biased and neutral text categories for evaluation. Initial results show promising bias mitigation, with the BART model effectively neutralizing subjective language while retaining content. The STI and CPS scores from BERT-based evaluations provide quantitative insights into the efficacy of our approach. This report highlights the project's objective, methodology, and successful outcomes.
+The project addresses bias in language by leveraging Text Style Transfer, focusing on converting biased language into neutral form while preserving content. The main model successfully transformed biased text into a neutral style, demonstrating the feasibility and effectiveness of text style transfer in mitigating bias. The approach to this problem is twofold: there was a successful development and implementation of a model that effectively transforms biased language into a more neutral form. Then, it involves a classification task where the model discerns between biased and neutral text categories for evaluation.
+
+Initial results show promising bias mitigation, with the BART model effectively neutralizing subjective language while retaining content. The STI and CPS scores from BERT-based evaluations provide quantitative insights into the efficacy of our approach. This report highlights the project's objective, methodology, and successful outcomes.
 
 ***
 
